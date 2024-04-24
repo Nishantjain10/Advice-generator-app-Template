@@ -1,6 +1,6 @@
-# Advice generator app
+# Advice Smith app
 
-[Advice generator app challenge]. 
+[Advice Smith app challenge]. 
 
 ## Table of contents
 
